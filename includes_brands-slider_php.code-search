@@ -1,0 +1,53 @@
+# Query: includes/brands-slider.php
+# ContextLines: 1
+
+15 results - 15 files
+
+shopping/bill-ship-addresses.php:
+  230  		</div><!-- /.checkout-box -->
+  231: 	<?php include('includes/brands-slider.php');?>
+  232  
+
+shopping/category.php:
+  291  		</div></div>
+  292: 		<?php include('includes/brands-slider.php');?>
+  293  
+
+shopping/forgot-password.php:
+  171: <?php include('includes/brands-slider.php');?>
+
+shopping/login.php:
+  251: <?php include('includes/brands-slider.php');?>
+
+shopping/my-account.php:
+  243: 	<?php include('includes/brands-slider.php');?>
+
+shopping/my-cart.php:
+  403: <?php echo include('includes/brands-slider.php');?>
+
+shopping/my-wishlist.php:
+  170: 	<?php include('includes/brands-slider.php');?>
+
+shopping/order-details.php:
+  153: <?php echo include('includes/brands-slider.php');?>
+
+shopping/order-history.php:
+  154: <?php echo include('includes/brands-slider.php');?>
+
+shopping/payment-method.php:
+  115: <?php echo include('includes/brands-slider.php');?>
+
+shopping/pending-orders.php:
+  176: <?php echo include('includes/brands-slider.php');?>
+
+shopping/product-details.php:
+  663: <?php include('includes/brands-slider.php');?>
+
+shopping/search-result.php:
+  280: 		<?php include('includes/brands-slider.php');?>
+
+shopping/sub-category.php:
+  270: 		<?php include('includes/brands-slider.php');?>
+
+shopping/track-orders.php:
+  86: <?php echo include('includes/brands-slider.php');?>
